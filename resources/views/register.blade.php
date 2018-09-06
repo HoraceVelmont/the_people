@@ -1,7 +1,7 @@
 <body>
 
 <div id="app">
-    <start></start>
+    <register></register>
 </div>
 </body>
 
