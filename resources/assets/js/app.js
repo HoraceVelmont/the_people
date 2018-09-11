@@ -28,10 +28,11 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 import Start from './components/Start.vue';
 import Register from './components/Register.vue';
+import Ingame from './components/Ingame';
 
 const app = new Vue({
     el: '#app',
     components: {
-        Start, Register
+        Start, Register, Ingame
     },
 });
